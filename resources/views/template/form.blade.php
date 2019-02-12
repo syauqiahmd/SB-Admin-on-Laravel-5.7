@@ -33,6 +33,14 @@
             </select>
           </div>
           <div class="form-group">
+            <label for="">Select2</label>
+            <select class="form-control select2" id="">
+              @for ($i = 1; $i < 10; $i++)
+                  <option>{{$i}}</option>
+              @endfor
+            </select>
+          </div>
+          <div class="form-group">
             <label for="">Multiple Select</label>
             <select multiple class="form-control" id="">
               @for ($i = 1; $i < 10; $i++)

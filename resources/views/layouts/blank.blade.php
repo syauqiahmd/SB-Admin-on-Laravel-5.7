@@ -18,7 +18,7 @@
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
-<body>
+<body class="bg-gradient-company">
     @yield('content')
 </body>
     <script src="{{ asset('js/app.js') }}" defer></script>

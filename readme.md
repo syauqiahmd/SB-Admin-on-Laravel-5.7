@@ -1,6 +1,27 @@
-## Node Version
+## Getting Started
+This application template can be installed on local server and online server with these specifications :
 
+## Node Version
 You must have npm installed on your machine in order to use these features. This theme was built using node v11.6.0. 
+
+#### Server Requirements
+1. PHP 7.1.3 (and meet [Laravel 5.7 server requirements](https://laravel.com/docs/5.7#server-requirements)),
+2. MySQL or MariaDB database.
+
+#### Installation Steps
+
+1. Clone the repo : `https://github.com/syauqiahmd/SB-Admin-on-Laravel-5.7.git`
+2. `$ cd SB-Admin-on-Laravel-5.7`
+3. `$ composer install`
+4. `$ cp .env.example .env`
+5. `$ php artisan key:generate`
+6. Create new MySQL database for this application
+7. Set database credentials on `.env` file
+8. `$ php artisan migrate`
+9. `$ npm install` Install dependencies for this template app
+10. `$ php artisan serve`
+11. `$ npm run watch` for serve with browserSync on development or `$ npm run prod` for production
+12. Done.
 
 ## Maintainers and Contributors
 

@@ -1,13 +1,17 @@
-
-/**
- * First we will load all of this project's JavaScript dependencies which
- * includes Vue and other libraries. It is a great starting point when
- * building robust, powerful web applications using Vue and Laravel.
- */
-
+// core js
 require('./bootstrap');
-require('jquery.easing')
-require('./sb-admin-2')
+require('jquery.easing');
+require('./sb-admin-2');
+// dataTable
+require('datatables.net/js/jquery.dataTables');
+require('datatables.net-bs4/js/dataTables.bootstrap4');
+require('./custom/dataTable');
+// chartJs
+require('chart.js/dist/Chart');
+// chartJs demo
+require('./demo/chart-area-demo');
+require('./demo/chart-pie-demo');
+require('./demo/chart-bar-demo');
 
 window.Vue = require('vue');
 

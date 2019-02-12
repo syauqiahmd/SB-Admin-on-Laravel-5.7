@@ -12,6 +12,9 @@ require('chart.js/dist/Chart');
 require('./demo/chart-area-demo')
 require('./demo/chart-pie-demo');
 require('./demo/chart-bar-demo');
+// select2
+require('select2/dist/js/select2.full');
+require('./custom/select2');
 
 window.Vue = require('vue');
 

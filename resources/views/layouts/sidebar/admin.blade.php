@@ -55,6 +55,8 @@
       <h6 class="collapse-header">Component :</h6>
       <a class="collapse-item" href="/template/button">Button</a>
       <a class="collapse-item" href="/template/card">Card</a>
+      <a class="collapse-item" href="/template/form1">Form Label on Top</a>
+      <a class="collapse-item" href="/template/form2">Form Horizontal</a>
       <div class="collapse-divider"></div>
       <h6 class="collapse-header">Utility :</h6>
       <a class="collapse-item" href="/template/color">Color</a>

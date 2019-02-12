@@ -16,6 +16,8 @@ Route::view('/template/forget', 'template.authForgetPassword');
 // component
 Route::view('/template/button', 'template.button');
 Route::view('/template/card', 'template.card');
+Route::view('/template/form1', 'template.formTopLabel');
+Route::view('/template/form2', 'template.formHorizontal');
 // utility
 Route::view('/template/color', 'template.utilityColor');
 Route::view('/template/border', 'template.utilityBorder');

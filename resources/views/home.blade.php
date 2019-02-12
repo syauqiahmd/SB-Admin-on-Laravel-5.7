@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('page-title', 'Card Sample')
+@section('page-title', 'Home / Dashboard')
 @section('content')
 <!-- Content Row -->
 <div class="row">

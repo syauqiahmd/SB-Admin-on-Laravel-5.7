@@ -40,6 +40,24 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 You must have npm installed on your machine in order to use these features. This theme was built using node v11.6.0. 
 
+## Maintainers and Contributors
+
+This project maintained by [Ahmad Syauqi](https://github.com/syauqiahmd) and developed by [contributors](https://github.com/syauqiahmd/SB-Admin-on-Laravel-5.7/graphs/contributors).
+
+## Ingredients
+
+SB-Admin-on-Laravel-5.7 built with these ingredients support :
+
+##### Dependencies
+* [Framework Laravel](https://laravel.com/docs/5.7) (5.7).
+* [jQuery v3.3.1](https://jquery.com/)
+* [Bootstrap v4.2.1](https://getbootstrap.com/docs/4.2/getting-started/introduction/)
+* [Start Bootstrap - SB Admin 2](https://startbootstrap.com/themes/sb-admin-2/), Admin template.
+* [Font Awesome v5.7.0](https://fontawesome.com/start)
+* [select2](https://select2.org/)
+* [Chart.js v2.7.3](https://www.chartjs.org)
+* [datatables.net-bs4 v1.10.19](https://github.com/DataTables/Dist-DataTables-Bootstrap4)
+
 ## License of Laravel
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).

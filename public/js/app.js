@@ -85297,7 +85297,6 @@ $(document).ready(function () {
     if (!$.fn.select2) return; // Select 2
 
     $('.select2').select2({
-      placeholder: "Pilih",
       theme: 'bootstrap4'
     });
   }

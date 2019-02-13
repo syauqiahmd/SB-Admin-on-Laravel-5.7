@@ -15,6 +15,8 @@ require('./demo/chart-bar-demo');
 // select2
 require('select2/dist/js/select2.full');
 require('./custom/select2');
+//sweetalert
+require('sweetalert/dist/sweetalert.min');
 
 window.Vue = require('vue');
 

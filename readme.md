@@ -40,6 +40,7 @@ SB-Admin-on-Laravel-5.7 built with these ingredients support :
 * [select2](https://select2.org/)
 * [Chart.js v2.7.3](https://www.chartjs.org)
 * [datatables.net-bs4 v1.10.19](https://github.com/DataTables/Dist-DataTables-Bootstrap4)
+* [sweetalert v2.1.2](https://sweetalert.js.org/guides/)
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
